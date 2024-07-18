@@ -9,6 +9,7 @@ The test cases are generated so that the answer will be less than or equal to `2
 ### Examples
 
 **Example 1:**
+
 ![Example Image](https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png)
 
 - **Input:** `m = 3, n = 7`
